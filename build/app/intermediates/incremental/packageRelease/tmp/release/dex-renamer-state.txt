@@ -1,0 +1,4 @@
+#Mon Aug 16 16:38:22 PKT 2021
+base.0=C\:\\Users\\HP\\Desktop\\learning flutter\\MIS App\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
